@@ -12,7 +12,7 @@ A React Native application for managing notifications. This project is part of t
 ## Dependencies
 
 - **[expo](https://expo.dev/)**: Development platform for React Native apps.
-- **[expo-notifications](https://docs.expo.dev/versions/latest/sdk/notifications/**:provides an API to fetch push notification tokens and to present, schedule, receive and respond to notifications.
+- **[expo-notifications](https://docs.expo.dev/versions/latest/sdk/notifications/)**:provides an API to fetch push notification tokens and to present, schedule, receive and respond to notifications.
 
 
 
